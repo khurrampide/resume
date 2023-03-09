@@ -12,6 +12,7 @@ const Navbar = () => {
                 <Link href='/'>About</Link>
                 <Link href='/'>Portfolio</Link>
                 <Link href='/'>Contact</Link>
+                
             </div>
             <div className='flex items-center gap-2 px-4 py-2 rounded-lg border border-red-700 text-red-700 hover:bg-red-700 hover:cursor-pointer hover:text-white '>Download CV <BiDownload/></div>
           
