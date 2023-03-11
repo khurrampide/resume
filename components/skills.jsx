@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <>
         <div className='flex justify-center'>
-            <Heading title="Skills" />
+            <Heading title="My Skills" />
            
         </div>
         <div className=''>
