@@ -14,7 +14,7 @@ const Hero = () => {
                 <h4 className='text-2xl'>Full Stack Developer</h4>
                 
                 <div className='bg-red-600 w-24 h-[2px] mt-4 '></div>
-                <p>I am Web Manager at Pakistan Institute of Development Economics, Islamabad</p>
+                <p>Web Manager @ Pakistan Institute of Development Economics, Islamabad</p>
                 
 
             </div>
