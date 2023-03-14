@@ -3,7 +3,10 @@ import Link from 'next/link'
 import {BiDownload} from 'react-icons/bi'
 import {FiMenu} from 'react-icons/fi'
 
+
 const Navbar = () => {
+  
+ 
   return (
     <div className=' border-2'>
         <div className='flex mx-16 justify-between items-center py-4 '>

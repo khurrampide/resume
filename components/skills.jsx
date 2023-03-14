@@ -12,7 +12,7 @@ const Skills = () => {
          <p className='text-center mx-auto max-w-[700px] px-4'>I am working at PIDE since 2011. I have done the work in Visual C++, .Net, Wordpress, CSS, TailwindCSS
             MYSql, C, C++, JavaScript, TypeScript, Next.JS.</p></div>
 
-          <div className='grid grid-cols-1 md:grid-cols-2 md:gap-12 mx-12  mt-4 mb-16'>
+          <div className='grid grid-cols-1 md:grid-cols-2 md:gap-12 mx-12  mt-4 mb-6'>
             <div className=''>
               <p>React.js</p>
               <div className='relative bg-gray-400 h-1 mt-2 mb-3'>

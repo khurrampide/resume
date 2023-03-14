@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <>
     {/* <Image src="/hero2.jpg" width={400} height={400}/> */}
-    <div className='flex justify-center h-screen bg-fixed bg-cover items-center mx-auto  custom-img'>
+    <div className='flex flex-col justify-center h-screen bg-fixed bg-cover items-center mx-auto  custom-img'>
         <div>
             <div className='max-w-[650px] text-white flex flex-col  justify-center text-center '>
                 <h1 className='text-5xl'>I am Khurram Iqbal</h1>
@@ -15,12 +15,13 @@ const Hero = () => {
                 
                 <div className='bg-red-600 w-24 h-[2px] mt-4 '></div>
                 <p>I am Web Manager at Pakistan Institute of Development Economics, Islamabad</p>
-                <Button className="justify-center" text="View More" link="/" />
+                
 
             </div>
+            {/* <Button className="justify-center mx-auto" text="View More" link="/" /> */}
             
-        </div>
-        
+        </div>        
+        <div className='btn'>View More...</div>
     </div>
 
     </>
